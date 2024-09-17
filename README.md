@@ -4,6 +4,8 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 this project is an implementation on the react [tic-tac-toe tutorial](https://react.dev/learn/tutorial-tic-tac-toe)
 with added features.
 
+note : the project is files are organized in typescript but the code uses jsx
+
 ### [1,For the current move only, show “You are at move #…” instead of a button.]
 ### [2,Rewrite Board to use two loops to make the squares instead of hardcoding them.]
 ### [3,Add a toggle button that lets you sort the moves in either ascending or descending order.]
